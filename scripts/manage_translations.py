@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python
 #
 # This Python file contains utility scripts to manage Django translations.
